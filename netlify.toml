@@ -1,0 +1,11 @@
+# Kush Welding Services on Netlify
+[build]
+  publish = "public"
+  # Sets the real web address (canonical links, sitemap, social previews) from Netlify's own URL / your custom domain.
+  command = "node scripts/set-domain.mjs"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  external_node_modules = ["sharp"]
+  included_files = ["node_modules/@img/**"]

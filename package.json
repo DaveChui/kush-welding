@@ -1,0 +1,15 @@
+{
+  "name": "kush-welding-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kush Welding Services website with owner admin (ads and photo uploads) for Netlify",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node test/run.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "sharp": "^0.34.0"
+  }
+}

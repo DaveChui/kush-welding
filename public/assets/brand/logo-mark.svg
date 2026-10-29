@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Kush Welding Services logo"><defs><linearGradient id="kg" gradientUnits="userSpaceOnUse" x1="18" y1="12" x2="46" y2="54"><stop offset="0" stop-color="#fbe7a6"/><stop offset=".45" stop-color="#d4aa4f"/><stop offset="1" stop-color="#8a6420"/></linearGradient>
+<linearGradient id="kr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d98a"/><stop offset=".5" stop-color="#b98f35"/><stop offset="1" stop-color="#6e4f16"/></linearGradient>
+<radialGradient id="ks" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset=".35" stop-color="#ffe9a8" stop-opacity=".55"/><stop offset="1" stop-color="#ffd978" stop-opacity="0"/></radialGradient>
+<clipPath id="kc"><rect x="14" y="16" width="40" height="32"/></clipPath></defs><path d="M32 2.5 58.5 17.75v28.5L32 61.5 5.5 46.25v-28.5z" fill="#0d0d10" stroke="url(#kr)" stroke-width="3" stroke-linejoin="round"/>
+<path d="M32 8 53.8 20.6v22.8L32 56 10.2 43.4V20.6z" fill="none" stroke="#d4aa4f" stroke-opacity=".28" stroke-width=".9"/>
+<g clip-path="url(#kc)" fill="none" stroke="url(#kg)" stroke-width="6.6">
+<path d="M22 14v36"/>
+<path d="M28.5 35.5 47 12.5"/>
+<path d="M33.5 30 50 54"/>
+</g>
+
+<circle cx="32" cy="32.5" r="9.5" fill="url(#ks)"/>
+<path d="M32 25.5 33.3 31.2 39 32.5 33.3 33.8 32 39.5 30.7 33.8 25 32.5 30.7 31.2z" fill="#fff"/>
+<g fill="#ffe3a0"><circle cx="30.2" cy="42" r="1.1"/><circle cx="34.6" cy="45.2" r=".9"/><circle cx="27.6" cy="46.3" r=".7"/><circle cx="37.6" cy="41.6" r=".6"/></g>
+<g stroke="#ffe3a0" stroke-width=".9" stroke-linecap="round" opacity=".8"><path d="M29.4 38.4 28.6 40.4"/><path d="M34 40 34.7 42.4"/></g></svg>

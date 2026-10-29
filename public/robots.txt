@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /uploads/ads/
+
+Sitemap: https://kushwelding.co.ke/sitemap.xml
